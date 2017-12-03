@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Logical_A3" id="7E4DAFC3-C72B-F69E-6A80-36C62AEB4FB3" version="3.5">
+<createdBy>JATESH</createdBy>
+<createdTime>2015-10-18 04:36:41 UTC</createdTime>
+<ownerDesignName>Logical_A3</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>7E4DAFC3-C72B-F69E-6A80-36C62AEB4FB3</designId>
+</OSDM_Design>
